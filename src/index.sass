@@ -1,0 +1,15 @@
+@charset "utf-8"
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700')
+@import '../node_modules/bulma/bulma.sass'
+
+.todo-card.card
+  .card-header
+    .field
+      width: 100%
+
+    button.card-header-icon
+      &[disabled]
+        .icon
+          color: #999999 !important
+          cursor: not-allowed
