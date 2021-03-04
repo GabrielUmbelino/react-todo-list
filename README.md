@@ -1,7 +1,7 @@
 # Todo List
 
 A simple todo list built using React.
-[Demo](https://react-todo-list.vercel.app/)
+[Demo](https://react-todo-list-theta.vercel.app/)
 
 ## Table of contents
 
